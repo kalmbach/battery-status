@@ -1,0 +1,37 @@
+body {
+  background: #FFF none repeat scroll 0% 0%;
+  text-align: center;
+  color: #000;
+}
+
+div {
+  text-align: center;
+}
+
+svg {
+  position:relative;
+  top: 40%;
+}
+
+#percentage {
+  font-size: 100px;
+  text-transform: uppercase;
+  line-height: 24px;
+  font-weight: bold;
+  position:relative;
+  top:40%;
+}
+
+.circle {
+  position: absolute;
+  background: transparent none repeat scroll 0% 0%;
+  border: 10px solid #FDCF0B;
+  border-radius: 20px;
+  padding: 10px;
+  width: 300px;
+  height: 200px;
+  top: 50%;
+  left: 50%;
+  margin-top: -120px;
+  margin-left: -170px;
+}
