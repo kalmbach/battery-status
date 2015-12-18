@@ -1,5 +1,4 @@
 # battery-status
-
 Check the battery status of the machine where the web server is running.
 
 ### Install dependencies
@@ -15,5 +14,4 @@ $ rackup
 Go to `http://localhost:9292` and you should see the battery percentage.
 
 ### Disclaimer
-
 This only works on **Linux**.
